@@ -1,0 +1,13 @@
+#hot{
+    background-color: black;color: white;
+    padding: red;
+    background-image: repeating-linear-gradient(home.html);
+}
+
+.cold{
+    background-color: blueviolet;color: rebeccapurple;
+}
+
+#list1{
+    list-style-type: ticks;
+}
